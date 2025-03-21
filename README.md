@@ -33,5 +33,11 @@ A **Hostel Management System** built using Python to streamline room booking, pa
 ## Rooms info
 ![Screenshot 2025-03-21 175143](https://github.com/user-attachments/assets/4124afec-eb48-40ab-a504-3781acb70fa8)
 
+## Booking
+![Screenshot 2025-03-21 175115](https://github.com/user-attachments/assets/305038b8-bbed-4eb9-9fa4-ea55ba627d7f)
+
+## Record
+![Screenshot 2025-03-21 175353](https://github.com/user-attachments/assets/cb27216b-0f6f-4951-873a-4c9a4b9cd66c)
+
 
 
