@@ -204,31 +204,31 @@ def Booking():
     # if-conditions to display allotted room
     # type and it's price
     if ch == 0:
-        print(" 1. Standard Non-AC - Rs. 1,50,000")
-        print(" 2. Standard AC - Rs. 1,80,000")
-        print(" 3. 3-Bed Non-AC - Rs. 1,00,000")
-        print(" 4. 3-Bed AC - Rs. 1,20,000")
+        print(" 1. Standard Non-AC - Rs. 15,000")
+        print(" 2. Standard AC - Rs. 18,000")
+        print(" 3. 3-Bed Non-AC - Rs. 10,000")
+        print(" 4. 3-Bed AC - Rs. 12,000")
         ch = int(input("->"))
     if ch == 1:
         room.append('Standard Non-AC')
         print("Room Type- Standard Non-AC")
-        price.append(150000)
-        print("Price- 150000")
+        price.append(15000)
+        print("Price- 15000")
     elif ch == 2:
         room.append('Standard AC')
         print("Room Type- Standard AC")
-        price.append(180000)
-        print("Price- 180000")
+        price.append(18000)
+        print("Price- 18000")
     elif ch == 3:
         room.append('3-Bed Non-AC')
         print("Room Type- 3-Bed Non-AC")
-        price.append(100000)
-        print("Price- 100000")
+        price.append(10000)
+        print("Price- 10000")
     elif ch == 4:
         room.append('3-Bed AC')
         print("Room Type- 3-Bed AC")
-        price.append(120000)
-        print("Price- 120000")
+        price.append(12000)
+        print("Price- 12000")
     else:
         print(" Wrong choice..!!")
 
