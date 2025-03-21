@@ -22,6 +22,10 @@ A **Hostel Management System** built using Python to streamline room booking, pa
    ```sh
    python hostel_management.py
    ```
+   
 ## 🔧 Requirements
 - Python 3.x
 - No external libraries required (only built-in Python modules)
+
+## 🏠 Home Page
+![Screenshot 2025-03-21 174110](https://github.com/user-attachments/assets/50d4b056-2cce-465f-853b-4f3e0d162f8b)
